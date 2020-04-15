@@ -17,6 +17,8 @@ This repository is linked to its **Parent POC Project**, here is the link [Test-
 
 **Step 4:** Run: `testcafe chrome tests/` to run all test's present under `tests` folder of your directory.
 
+_**A step further**_  You can run your test's remotely eg. On a test device such as mobile using `testcafe remote tests/test.js --qr-code` more details [here]
+
 
 ## Sample Result
 
@@ -39,3 +41,4 @@ Thanks ! [testcafe] for providing this cool Test Automation framework and a reas
 [Installing testcafe]: <https://devexpress.github.io/testcafe/documentation/using-testcafe/installing-testcafe.html#global-installation>
 [this innovation]: <https://devexpress.github.io/testcafe/documentation/how-it-works/>
 [testcafe]: <https://devexpress.github.io/testcafe/>
+[here]: <https://devexpress.github.io/testcafe/documentation/recipes/test-on-remote-computers-and-mobile-devices.html#run-tests-on-a-mobile-device>
